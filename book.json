@@ -1,1 +1,9 @@
 {}
+{
+"plugins": ["disqus"],
+“pluginsConfig”: {
+"disqus": {
+ “shortName":” “gitbook-discuss”
+  }
+}
+}
