@@ -3,7 +3,7 @@
   "plugins": ["disqus"],
   "pluginsConfig": {
   "disqus": {
-   "shortName":" "py-discuss"
+   "shortName":"py-discuss"
     }
 }
 }
