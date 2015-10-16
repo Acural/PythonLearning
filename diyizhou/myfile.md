@@ -1,8 +1,11 @@
 # 第一周： 10.1-10.17
+本周主要是学习GitHub与GitBook的使用
+## GitHub与Github与Gitbook的使用与绑定
+###GitHub个人仓的建立
 
 首先，需要一个GitHub的账号，并点击绿色的“New repository”按钮。在建立个人仓库的时候，一定要点击Initialize this repository with a README   否则在后续与GitBook的互相绑定中就会出现提示这个个人仓库为empty的情况。
 
-
+###GitBook的设定
 GitBook也要注册一个账户，账户注册好后建立一本新的书籍“creat a new book”。在设置好书籍的相关信息后保存，在my book中点击这本书的title（不是编辑页面！），打开setting界面，在右下方的选项里选择github，将新建的github repository地址复制到里面，点击添加webook后保存即可。
 
 由于GitBook原生并没有评论功能，这需要我们自己自行添加disqus模块。关于这个模块，网上的教程很丰富 可以参考：[Hard way to Python](https://zjuguxi.gitbooks.io/hard-way-to-python/content/week/disqus.html)  要注意的是代码的标点均为英文符号。
