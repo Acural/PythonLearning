@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [在学之前](test)
+* 第一周：10.1-10.17 
 
