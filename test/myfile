@@ -5,5 +5,6 @@
 
 GitBook也要注册一个账户，账户注册好后建立一本新的书籍“creat a new book”。在设置好书籍的相关信息后保存，在my book中点击这本书的title（不是编辑页面！），打开setting界面，在右下方的选项里选择github，将新建的github repository地址复制到里面，点击添加webook后保存即可。
 
-由于GitBook原生并没有评论功能，这需要我们自己自行添加disqus模块。关于这个模块，网上的教程很丰富 可以参考：https://zjuguxi.gitbooks.io/hard-way-to-python/content/week/disqus.html
+由于GitBook原生并没有评论功能，这需要我们自己自行添加disqus模块。关于这个模块，网上的教程很丰富 可以参考：https://zjuguxi.gitbooks.io/hard-way-to-python/content/week/disqus.html  要注意的是代码的标点均为英文符号。
 
+自己在这个地方花了大量时间，主要问题出在对这个评论模块的不理解上。disqus是一个第三方的
