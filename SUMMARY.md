@@ -5,5 +5,5 @@
 * [第一周： 10.1-10.17](diyizhou/myfile.md)
    * GitBook与GitHub的折腾
    * 在学之前...
-* 第一周大妈开光记
+* [第一周大妈开光记](dama1/myfile.md)
 
