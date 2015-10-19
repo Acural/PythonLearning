@@ -1,5 +1,5 @@
 # 第一周： 10.1-10.17
-本周主要是学习GitHub与GitBook的使用
+本周主要是学习GitHub与GitBook的使用~
 ## GitHub与Github与Gitbook的使用与绑定
 ###GitHub个人仓的建立
 
